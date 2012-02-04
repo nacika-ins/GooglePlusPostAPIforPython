@@ -1475,7 +1475,7 @@ class _Music(object):
 #if __name__ == '__main__':
 
     
-    #Googleアカウントにログインする
+    #Googleアカウントにログインす
     print "ログインしています"
     g = Login("メールアドレス", "パスワード")
     
