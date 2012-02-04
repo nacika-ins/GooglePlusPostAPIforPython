@@ -14,7 +14,7 @@ import os
 import socket
 import urlparse
 
-#JSON修正
+#JSON修
 def _fixjson(_jsonstr):
     _jsonstr = _jsonstr.replace("\"null\"", "null")
     _jsonstr = _jsonstr.replace("\"false\"", "false")
